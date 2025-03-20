@@ -1,6 +1,6 @@
 # Openvibe
 
-Welcome to Openvibe—a chaotic, open-source game dev experiment. Build a game with no communication, just pure vibes. Anyone from the vibe coding community can contribute. Let’s see what happens.
+Welcome to Openvibe — a chaotic, open-source game dev experiment. Build a game with no communication, just pure vibes. Anyone from the vibe coding community can contribute. Let’s see what happens.
 
 ## Rules
 1. **No Communication**: No chatting, commenting, or coordinating with others. Your code and commits are your voice.
