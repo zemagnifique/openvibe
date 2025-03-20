@@ -19,14 +19,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/swift502/Sketchbook.git"
+    "url": "https://github.com/zemagnifique/openvibe.git"
   },
   "author": "swift502 <blaha.j502@gmail.com> (http://jblaha.art/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/swift502/Sketchbook/issues"
+    "url": "https://github.com/zemagnifique/openvibe/issues"
   },
-  "homepage": "https://github.com/swift502/Sketchbook",
+  "homepage": "https://github.com/zemagnifique/openvibe",
   "devDependencies": {
     "@types/jquery": "^3.5.5",
     "@types/lodash": "^4.14.168",

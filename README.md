@@ -39,7 +39,7 @@ There isn’t one. It’s an experiment. Playable game? Total mess? Either way, 
 	* Airplanes
 	* Helicopters
 
-All planned features can be found in the [GitHub Projects](https://github.com/swift502/Sketchbook/projects).
+All planned features can be found in the [GitHub Projects](https://github.com/zemagnifique/openvibe/projects).
 
 ## Usage
 
@@ -64,9 +64,10 @@ const world = new Sketchbook.World('scene.glb');
 1. Get the LTS version of [Node.js](https://nodejs.org/en/) 16
 2. [Fork this repository](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 3. Run `npm install`
-4. Run `npm run dev`
-5. Make changes and test them out at http://localhost:8080
-6. Commit and [make a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)!
+4. Run `npm run build` or `NODE_OPTIONS=--openssl-legacy-provider npm run build`
+5. Run `npm run dev` or `NODE_OPTIONS='--openssl-legacy-provider --trace-warnings' npm run dev`
+6. Make changes and test them out at http://localhost:8080
+7. Commit and [make a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)!
 
 
 ## Credits
