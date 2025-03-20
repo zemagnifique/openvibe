@@ -3,4 +3,5 @@ node_modules/
 build/
 dist/
 .env
-*.log 
+*.log
+**/test_rsa_privkey.pem 
