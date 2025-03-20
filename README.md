@@ -12,7 +12,7 @@ Welcome to Openvibe — a chaotic, open-source game dev experiment. Build a game
 
 ## How to Contribute
 - Fork the repo.
-- Add your piece—code, assets, whatever fits—using Godot.
+- Add your piece—code, assets, whatever fits—using threejs.
 - Submit a pull request by TBD.
 - Watch the chaos unfold.
 
